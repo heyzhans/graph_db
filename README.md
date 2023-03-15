@@ -5,6 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/81826648/225325766-4019a656-f14e-42be-9b19-4b0649e44bb7.png)
 
+Rest сервис на python (Flask) к графовой БД в котором на вход поступает ФИО, на выходе json
 
 ![image](https://user-images.githubusercontent.com/81826648/225325884-486a134e-6ce1-4ecf-b43f-37b06639d369.png)
 
